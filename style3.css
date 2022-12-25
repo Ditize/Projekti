@@ -18,7 +18,7 @@ body {
   justify-content: center;
   min-height: 100vh;
   margin: 0;
-  background: radial-gradient(rgba(17, 17, 17, 0.811), #071a1a);
+  background: radial-gradient(rgba(17, 17, 17, 0.885), #071a1a);
 }
 
 .container {
