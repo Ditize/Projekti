@@ -39,9 +39,13 @@ body {
 h2 {
   text-align: center;
   margin: 0 0 20px;
-  color: #29a396;
+  color: #fff;
   font-size: 28px;
   font-weight: bolder;
+}
+
+h2 span {
+  color: #29a396;
 }
 
 .form-control {
@@ -107,7 +111,7 @@ h2 {
 }
 
 .form-txt {
-  background-color: #9eddd7;
+  background-color: #b4dfdb;
 }
 
 .btn:hover {

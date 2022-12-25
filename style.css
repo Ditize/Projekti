@@ -537,6 +537,20 @@ h3 {
   text-align: center;
   color: #ccc;
 }
+
+.features-title-s {
+  font-size: 20px;
+  line-height: 1.9;
+  text-decoration: none;
+}
+
+.features-title-s {
+  color: rgba(204, 204, 204, 0.741);
+}
+
+.features-title-s:hover {
+  color: #29a396;
+}
 /* End Footer */
 
 /* Responsive */
